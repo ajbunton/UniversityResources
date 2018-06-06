@@ -1,0 +1,29 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="/UniversityResources/style.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<title>University Resources</title>
+</head>
+
+<body>
+
+<div id="myIT">
+</div>
+
+<div id="universityResources">
+</div>
+
+<hr />
+
+<div id="professionalstudiesResources">
+</div>
+
+<script>
+$('#myIT').load("/UniversityResources/myIT.html");
+$('#universityResources').load("/UniversityResources/universityResources.html");
+$('#professionalstudiesResources').load("/UniversityResources/collegeResources/professionalstudiesResources.html");
+</script>
+</body>
+
+</html>
