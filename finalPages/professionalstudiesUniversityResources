@@ -17,7 +17,7 @@
 <hr />
 
 <div id="professionalstudiesResources">
-</div>
+</div> 
 
 <script>
 $('#myIT').load("/UniversityResources/myIT.html");
