@@ -1,4 +1,2 @@
 # University-Resources
-University Resources pages for BlueLine
-
-URL: https://ajbunton.github.io/
+A template for customizeable resources that can be linked to from Canvas using the Redirect tool.
